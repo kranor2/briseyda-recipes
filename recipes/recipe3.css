@@ -1,0 +1,14 @@
+* {
+    background-color: blanchedalmond;
+    font-family: 'Mystery Quest', serif;
+}
+
+h1, h2 {
+    font-family: "Lobster", serif;
+    color:palevioletred ;
+}
+
+p, li {
+    font-family: "Playfair Display", serif;
+    color:grey ;
+}

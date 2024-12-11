@@ -1,0 +1,14 @@
+* {
+    background-color: rgba(255, 235, 205, 0.87);
+    font-family: 'Tangerine', serif;
+}
+
+h1, h2 {
+    font-family: "Lily Script One", serif;
+    color:rgb(252, 137, 175) ;
+}
+
+p, li {
+    font-family: "Playfair Display", serif;
+    color:rgb(148, 219, 180) ;
+}
